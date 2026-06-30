@@ -1,4 +1,4 @@
-<big> This work is based on the research work ofof "Hidden Knowledge: Mathematical Methods for the Extraction of the Fingerprint of Medieval Paper from Digital Images" by Tamara G. Grossmann, Carola-Bibiane Schönlieb and Orietta Da Rold.
+<big> This work is based on the research work of "Hidden Knowledge: Mathematical Methods for the Extraction of the Fingerprint of Medieval Paper from Digital Images" by Tamara G. Grossmann, Carola-Bibiane Schönlieb and Orietta Da Rold.
 some changes were made in order to adapt it to the needs of the project and its proper functioning </big>
 
 @article{grossmann2023extracting,
